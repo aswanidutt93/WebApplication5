@@ -37,6 +37,7 @@ namespace WebApplication5.Controllers
             private set
             {
                 _signInManager = value;
+                Console.WriteLine("Test--GIT");
             }
         }
 
